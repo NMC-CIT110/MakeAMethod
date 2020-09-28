@@ -21,7 +21,6 @@ namespace MakeAMethod
             string userResponse;
             bool validResponse;
 
-
             do
             {
                 validResponse = true;
